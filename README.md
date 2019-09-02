@@ -1,2 +1,0 @@
-# mule-cicd
-muelsoft cicd
